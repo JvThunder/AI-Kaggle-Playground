@@ -4,3 +4,4 @@ Thus repo includes:
 - Digit Recognizer
 - Petal Classifier
 - Space Titanic
+- NLP Sentiment Analysis
